@@ -5,7 +5,6 @@
 ![hacktoberfest](https://i0.wp.com/fossnaija.com/wp-content/uploads/2022/09/fossnaija.com-hacktoberfest-2022.png)
 
 
-
 # Hi  HACKTOBERFEST 2022 IS HERE :bangbang::bangbang::bangbang:
 
 :performing_arts: **What is Hacktoberfest ?**
@@ -13,7 +12,7 @@
 :diamonds: Hacktoberfest is a month-long challenge. It happens every year in the month of October.
   Hacktoberfest is open to everyone and it marks the celebration of **Open Source.** It's the biggest Open Source event that encourages newbies to participate in Open Source and     create their 1st meaningful PR.
   
-  <h1 align="center"><img src='https://i.giphy.com/media/xT0xeQfucCAPaq3nQ4/giphy.gif'></h1>
+ <h1 align="center"><img src='https://i.giphy.com/media/xT0xeQfucCAPaq3nQ4/giphy.gif'></h1>
 
 🏆 🏆 **Rewards :** 🏆🏆
 
@@ -25,12 +24,12 @@ Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
 
 <https://hacktoberfest.digitalocean.com/register>
 
-## Excited :interrobang: :star_struck: :star_struck: :star_struck:  
+##Excited :interrobang: :star_struck: :star_struck: :star_struck:  
 
 To add your contributions towards opensource community and grab the oppurtunity:smiley: :smiley::smiley: 
 
 Then lets start with this repository.
-##  <center>:sunglasses: :sunglasses: DSA :sunglasses: :sunglasses: </center> (Collection of DSA problems and solutions :notebook_with_decorative_cover: :notebook_with_decorative_cover:)
+###  <center>:sunglasses: :sunglasses: DSA :sunglasses: :sunglasses: </center> (Collection of DSA problems and solutions :notebook_with_decorative_cover: :notebook_with_decorative_cover:)
 
 ### Head down :arrow_down: :arrow_down: :arrow_down: to see how to get started with the repo and follow the guidelines :dart: :dart: :dart:
 
@@ -74,12 +73,12 @@ This year, the first 55,000 participants can earn a T-shirt.
 ******
 
 
- #### :one: Fork this repository to your account. :flushed: :flushed:
+#### :one: Fork this repository to your account. :flushed: :flushed:
   ******
 
 ![PicsArt_10-04-08 04 45](https://user-images.githubusercontent.com/64744084/95018364-e7d2df00-067c-11eb-9989-5ed586adb11b.jpg)
 ******
- #### :two: Go to Git Bash and Clone the forked repository ⌨️ ⌨️ : 
+#### :two: Go to Git Bash and Clone the forked repository ⌨️ ⌨️ : 
   *****
        
   
@@ -108,7 +107,7 @@ This year, the first 55,000 participants can earn a T-shirt.
  
  ``$ git push origin main``
  ******
- #### 5️⃣Now create a new branch :thread::
+#### 5️⃣Now create a new branch :thread::
 
  `` $ git checkout -b <feature-branch>``
 ******
@@ -116,11 +115,11 @@ This year, the first 55,000 participants can earn a T-shirt.
  ******
 ## Creating a PR :scream: :scream: :scream: :scream: :
  
- #### :small_red_triangle: After making changes or modification on to your code locally, you need to add these files to the staging area.
+#### :small_red_triangle: After making changes or modification on to your code locally, you need to add these files to the staging area.
 ```
   $ git add --all
 ```
- #### :small_red_triangle: Once files added, you need to commit the changes to with an appropriate commit message.
+#### :small_red_triangle: Once files added, you need to commit the changes to with an appropriate commit message.
 ```
   $ git commit -m "<your-message>"
 ```
@@ -140,7 +139,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-##### :mailbox_with_no_mail: :mailbox_with_no_mail: You can connect for any query (or can also ask by raising issue):grey_exclamation: :grey_exclamation: :grey_exclamation:
+### :mailbox_with_no_mail: :mailbox_with_no_mail: You can contact for any query (or can also ask by raising issue):grey_exclamation: :grey_exclamation: :grey_exclamation:
 
 <a href= "https://www.linkedin.com/in/arnab-chatterjee-9a0253187"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href="arnabchat2001@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
